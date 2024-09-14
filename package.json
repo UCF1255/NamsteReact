@@ -1,0 +1,25 @@
+{
+  "name": "namstereact",
+  "version": "1.0.0",
+  "description": "This is NamasteReact by Bhavana Ingle",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UCF1255/NamsteReact.git"
+  },
+  "keywords": [
+    "ucf1255"
+  ],
+  "author": "Bhavana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UCF1255/NamsteReact/issues"
+  },
+  "homepage": "https://github.com/UCF1255/NamsteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
